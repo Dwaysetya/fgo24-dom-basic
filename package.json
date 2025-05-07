@@ -1,0 +1,16 @@
+{
+  "name": "belajardom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "live": "^0.1.19",
+    "server": "^1.0.41"
+  }
+}
