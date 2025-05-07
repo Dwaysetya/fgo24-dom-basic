@@ -1,18 +1,6 @@
-## Create Personal Landing Page
+## Create Manipulation DOM
 
-This repository contains projects on how to create a personal website, focusing on documenting the external HTML and CSS structure. This project aims to make all information about your personal background easily accessible using a responsive and attractive web interface.
-
-This website includes several main sections such as:
-
-Home: Welcomes visitors with a short introduction.
-
-About: Explains your background, education, and interests.
-
-Portfolio: Shows some of the projects or works that have been created.
-
-Contact: Provides information to contact me directly.
-
-This project is perfect as an exercise for beginners in understanding the basics of creating static web pages with HTML and CSS.
+This repository contains projects on how to create dom manipulation with javascript. This project aims to implement dom manipulation on html and javascript text.
 
 ## Preview
 
@@ -25,7 +13,7 @@ This project is perfect as an exercise for beginners in understanding the basics
 1. Clone this project
 
 ```
-git clone    https://github.com/Dwaysetya/Dwaysetya.github.io
+git clone    https://github.com/Dwaysetya/fgo24-dom-basic
 ```
 
 2. Enter the project firectory
