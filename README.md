@@ -6,7 +6,7 @@ This repository contains projects on how to create dom manipulation with javascr
 
 ## Result
 
-![Result](./src/image/ss.pngpng)
+![Result](./src/image/ss.png)
 
 ## How to Run this project
 
